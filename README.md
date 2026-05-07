@@ -14,3 +14,4 @@ A lightweight CLI tool for running and managing AI agents directly from the term
 
 ```bash
 npm install
+node index.js "Generate React component"
